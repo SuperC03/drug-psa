@@ -1,0 +1,11 @@
+# VSCode Stuff
+.vscode
+
+# Dependencies
+node_modules/
+
+# Production
+dist/
+
+# Errors
+yarn-error.log
